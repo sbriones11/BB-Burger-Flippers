@@ -1,0 +1,80 @@
+* {
+    font-size: large;
+    font-family: 'Oswald', sans-serif;
+}
+
+.brand-logo {
+    margin: 0 2rem;
+    text-align: center;   
+}
+.slider {
+    background-size: cover;
+    font-size: large;
+    font-family: 'Oswald', sans-serif;   
+}
+
+.fa-bars {
+    margin: 0 1rem;
+    color: white;
+}
+
+.fa-search {
+    margin: 0 1rem;
+    color: white;
+}
+
+.fa-truck {
+    margin: 0 1rem;
+    color: white;
+}
+
+.fa-cart {
+    margin: 0 1rem;
+    color: white;
+}
+
+
+.fa-hamburger {
+    margin: 0 1rem;
+    color: white;
+}
+
+.fa-cheese {
+    margin: 0 1rem;
+    color: white;
+}
+
+.fa-leaf {
+    margin: 0 1rem;
+    color: white;
+}
+
+.fa-stroopwafel {
+    margin: 0 1rem;
+    color: white;
+}
+
+.center-align {
+    margin: 5rem 0;
+}
+
+.yellow-text {
+    font-size: xx-large;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    text-shadow: black;
+}
+
+.parallax img {
+    width: 100vw;
+}
+
+
+@media only screen and (max-width: 800px) {
+
+    .parallax-container {
+        height: 200px;
+    }
+}
+
+
